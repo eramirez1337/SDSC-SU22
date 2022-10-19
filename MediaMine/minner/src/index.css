@@ -1,0 +1,18 @@
+:root {
+  /* Colors */
+  --sea-green-crayola: #3bf4d0ff;
+  --oxford-blue: #0e2946ff;
+  --bright-navy-blue: #1f70c1ff;
+  --eerie-black: #121315ff;
+}
+* {
+  color: #fff;
+}
+
+html {
+  background: var(--oxford-blue);
+}
+
+#root {
+  background: var(--oxford-blue);
+}
